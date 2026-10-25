@@ -1,0 +1,10 @@
+---
+title: "bursty-locomotion-analysis"
+author: "Caroline Danforth"
+date: "2026-10-25"
+output: html_document
+---
+
+# My first GitHub connected R project
+print("Hello, GitHub!")
+
